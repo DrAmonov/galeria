@@ -140,18 +140,18 @@ img {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     
     grid-template-areas:
-    "box_item_1 box_item_2 box_item_3 box_item_4" /* 1*/
-    "box_item_5 box_item_2 box_item_3 box_item_8" /* 2*/
-    "box_item_5 box_item_2 box_item_7 box_item_8" /* 3 */
-    "box_item_5 box_item_6 box_item_7 box_item_8" /* 4 */
-    "box_item_5 box_item_6 box_item_7 box_item_11" /* 5 */
-    "box_item_9 box_item_6 box_item_7 box_item_11" /* 6 */
-    "box_item_9 box_item_10 box_item_7 box_item_11" /* 7 */
-    "box_item_9 box_item_10 box_item_14 box_item_11" /* 7 */
-    "box_item_9 box_item_10 box_item_14 box_item_11" /* 8 */
-    "box_item_9 box_item_13 box_item_14 box_item_15" /* 9 */
-    "box_item_12 box_item_13 box_item_14 box_item_15" /* 10 */
-    "box_item_12 box_item_13 box_item_14 box_item_15"; /* 11 */
+    "box_item_1 box_item_2 box_item_3 box_item_4" 
+    "box_item_5 box_item_2 box_item_3 box_item_8" 
+    "box_item_5 box_item_2 box_item_7 box_item_8" 
+    "box_item_5 box_item_6 box_item_7 box_item_8" 
+    "box_item_5 box_item_6 box_item_7 box_item_11" 
+    "box_item_9 box_item_6 box_item_7 box_item_11" 
+    "box_item_9 box_item_10 box_item_7 box_item_11" 
+    "box_item_9 box_item_10 box_item_14 box_item_11" 
+    "box_item_9 box_item_10 box_item_14 box_item_11" 
+    "box_item_9 box_item_13 box_item_14 box_item_15" 
+    "box_item_12 box_item_13 box_item_14 box_item_15" 
+    "box_item_12 box_item_13 box_item_14 box_item_15"; 
     
     grid-gap: 10px;
 }
